@@ -11,7 +11,7 @@
 </div>
 
 
-A C# plugin loader for Monster Hunter World based on .NET 8.0.
+A C# plugin loader for Monster Hunter World based on .NET 8.0. 
 
 For more detailed documentation and tutorials, visit the [wiki](https://fexty12573.github.io/SharpPluginLoader/).
 
